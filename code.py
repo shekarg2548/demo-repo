@@ -1,0 +1,1 @@
+print ("Shekar Entry course")
